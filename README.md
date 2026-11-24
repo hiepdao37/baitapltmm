@@ -1,4 +1,4 @@
-# BÀI TẬP LỚN MẬT MÃ HỌC
+# BÀI TẬP LÍ THUYẾT MẬT MÃ
 
 ## 1. Giới thiệu
 Project thực hiện cài đặt hai thuật toán mã hóa đối xứng:
